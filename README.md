@@ -4,6 +4,7 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
+![Moe Counter](count.getloli.com)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vannnemcee)](https://github.com/anuraghazra/github-readme-stats)
   
