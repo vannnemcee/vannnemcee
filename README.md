@@ -21,6 +21,7 @@
 ## 🐍 GitHub Statistics
 
 ## My Contribution snake
-![Contribution snake example](https://github.com/?username=vannnemcee/?username=vannnemcee/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/vannnemcee/snk/output/github-contribution-grid-snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
