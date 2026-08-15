@@ -20,15 +20,7 @@
 
 ## 🐍 GitHub Statistics
 
-  </tr>
-</table>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vannnemcee/vannnemcee//output/galaga-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vannnemcee/vannnemcee/output/galaga-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/vannnemcee/vannnemcee/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
-  </picture>
-</p>
+## My Contribution snake
+![Contribution snake example](https://github.com/vannnemcee/vannnemcee/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
