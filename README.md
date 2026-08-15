@@ -32,20 +32,8 @@
 </p>
 
 ## My Contribution snake
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vannnemcee/vannnemcee/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vannnemcee/vannnemcee/output/github-snake.svg"
-  />
-  <img
-    alt="github contribution snake"
-    src="https://raw.githubusercontent.com/vannnemcee/vannnemcee/output/github-snake.svg"
-  />
-</picture>
+![Contribution Snake](https://raw.githubusercontent.com/vannnemcee/vannnemcee/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
