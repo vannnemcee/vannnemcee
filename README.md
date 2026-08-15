@@ -32,7 +32,7 @@
 </p>
 
 ## My Contribution snake
-![Contribution Snake](https://raw.githubusercontent.com/vannnemcee/vannnemcee/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/vannnemcee/vannnemcee/output/github-contribution-grid-snake-dark.svg)
 
 <picture>
   <source
