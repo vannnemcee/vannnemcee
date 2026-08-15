@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/vannnemcee/vannnemcee/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/vannnemcee/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
