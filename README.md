@@ -1,5 +1,5 @@
 <h1 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4999&pause=1000&color=64F700&width=435&lines=YO+HALLO+BANG;WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4999&pause=1000&color=64F700&width=435&lines=YO+HALLO+BANG;WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg
 
 ###
 
